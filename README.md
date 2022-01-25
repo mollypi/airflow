@@ -1,4 +1,6 @@
 <!--
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/a3f893f3-edac-42bc-ae8c-cc7c4cd1dece.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/e76b6a58-412f-40a7-81d6-b6c2b7f4dd88.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/b532f389-d0cb-4cc5-acce-a0629f35dbeb.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow?orgId=561911742905)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/2f70993a-f662-49aa-97c6-567aef973afa.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/airflow?orgId=561911742905)  
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
  distributed with this work for additional information
